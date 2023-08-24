@@ -1,0 +1,3 @@
+﻿  test 8.24.cpp
+E:\VS2013\Cyuyan\test8.24\test 8.24.cpp(56,2): warning C4091: “typedef ”: 没有声明变量时忽略“Sqlist”的左侧
+  test8.24.vcxproj -> E:\VS2013\Cyuyan\test8.24\x64\Debug\test8.24.exe

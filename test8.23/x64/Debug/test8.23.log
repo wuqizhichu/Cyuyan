@@ -1,0 +1,4 @@
+﻿  test8.23.cpp
+E:\VS2013\Cyuyan\test8.23\test8.23.cpp(49,2): warning C4091: “typedef ”: 没有声明变量时忽略“Sqlist”的左侧
+E:\VS2013\Cyuyan\test8.23\test8.23.cpp(65): warning C4715: “Deletelist”: 不是所有的控件路径都返回值
+  test8.23.vcxproj -> E:\VS2013\Cyuyan\test8.23\x64\Debug\test8.23.exe
