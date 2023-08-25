@@ -1,0 +1,4 @@
+﻿  test8.25.cpp
+E:\VS2013\Cyuyan\test\test8.25.cpp(52,2): warning C4091: “typedef ”: 没有声明变量时忽略“Sqlist”的左侧
+E:\VS2013\Cyuyan\test\test8.25.cpp(112,6): warning C4101: “mid”: 未引用的局部变量
+  test.vcxproj -> E:\VS2013\Cyuyan\test\x64\Debug\test.exe
