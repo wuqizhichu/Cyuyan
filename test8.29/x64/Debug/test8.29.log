@@ -1,0 +1,2 @@
+﻿D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1134,5): error MSB6006: “link.exe”已退出，代码为 1168。
+LINK : fatal error LNK1168: 无法打开 E:\VS2013\Cyuyan\test8.29\x64\Debug\test8.29.exe 进行写入
