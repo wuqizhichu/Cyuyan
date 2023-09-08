@@ -1,0 +1,4 @@
+﻿  test9.8.cpp
+E:\VS2013\Cyuyan\test9.8\test9.8.cpp(134,6): warning C4551: 缺少参数列表的函数调用
+E:\VS2013\Cyuyan\test9.8\test9.8.cpp(127): warning C4715: “isok”: 不是所有的控件路径都返回值
+  test9.8.vcxproj -> E:\VS2013\Cyuyan\test9.8\x64\Debug\test9.8.exe
