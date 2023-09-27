@@ -1,0 +1,3 @@
+﻿  test9.27.cpp
+D:\VS2013\Cyuyan\test9.27\test9.27.cpp(24,13): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  test9.27.vcxproj -> D:\VS2013\Cyuyan\test9.27\x64\Debug\test9.27.exe
