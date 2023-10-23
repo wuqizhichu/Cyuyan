@@ -1,0 +1,2 @@
+﻿  test10.21.cpp
+D:\VS2013\Cyuyan\test10.21\test10.21.cpp(3,16): error C5208: typedef 名称中使用的未命名的类不能声明非静态数据成员、成员枚举或成员类以外的成员
